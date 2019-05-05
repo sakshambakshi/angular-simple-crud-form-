@@ -1,0 +1,396 @@
+{
+  "fruits": [
+    {
+      "id": 1,
+      "fruitName": "apple",
+      "Description": "sjjs",
+      "Available": [
+        "India"
+      ],
+      "isSweet": "true"
+    },
+    {
+      "id": 5,
+      "fruitName": "Mango",
+      "Description": "They are Sweet",
+      "Available": [
+        "India",
+        "China",
+        "USA"
+      ],
+      "isSweet": "true"
+    },
+    {
+      "id": 6,
+      "fruitName": "Mango",
+      "Description": "They are Sweet",
+      "Available": [
+        "India",
+        "China",
+        "USA"
+      ],
+      "isSweet": "true"
+    },
+    {
+      "id": 7,
+      "fruitName": "Mango",
+      "Description": "They are Sweet",
+      "Available": [
+        "India",
+        "China",
+        "USA"
+      ],
+      "isSweet": "true"
+    },
+    {
+      "id": 8,
+      "fruitName": "Mango",
+      "Description": "They are Sweet",
+      "Available": [
+        "India",
+        "China",
+        "USA"
+      ],
+      "isSweet": "true"
+    },
+    {
+      "id": 9,
+      "fruitName": "Mango",
+      "Description": "They are Sweet",
+      "Available": [
+        "India",
+        "China",
+        "USA"
+      ],
+      "isSweet": "true"
+    },
+    {
+      "id": 10,
+      "fruitName": "Orange",
+      "Description": "xx",
+      "Available": [
+        "India"
+      ],
+      "isSweet": "true"
+    },
+    {
+      "id": 11,
+      "fruitName": "Mango",
+      "Description": "They are Sweet",
+      "Available": [
+        "India",
+        "China",
+        "USA"
+      ],
+      "isSweet": "true"
+    },
+    {
+      "id": 12,
+      "fruitName": "Mango",
+      "Description": "They are Sweet",
+      "Available": [
+        "India",
+        "China",
+        "USA"
+      ],
+      "isSweet": "true"
+    },
+    {
+      "id": 13,
+      "fruitName": "Mango",
+      "Description": "They are Sweet",
+      "Available": [
+        "India",
+        "China",
+        "USA"
+      ],
+      "isSweet": "true"
+    },
+    {
+      "id": 14,
+      "fruitName": "Mango",
+      "Description": "They are Sweet",
+      "Available": [
+        "India",
+        "China",
+        "USA"
+      ],
+      "isSweet": "true"
+    },
+    {
+      "id": 15,
+      "fruitName": "Mango",
+      "Description": "They are Sweet",
+      "Available": [
+        "India",
+        "China",
+        "USA"
+      ],
+      "isSweet": "true"
+    },
+    {
+      "id": 16,
+      "fruitName": "Mango",
+      "Description": "They are Sweet",
+      "Available": [
+        "India",
+        "China",
+        "USA"
+      ],
+      "isSweet": "true"
+    },
+    {
+      "id": 17,
+      "fruitName": "Mango",
+      "Description": "They are Sweet",
+      "Available": [
+        "India",
+        "China",
+        "USA"
+      ],
+      "isSweet": "true"
+    },
+    {
+      "id": 18,
+      "fruitName": "Mango",
+      "Description": "They are Sweet",
+      "Available": [
+        "India",
+        "China",
+        "USA"
+      ],
+      "isSweet": "true"
+    },
+    {
+      "id": 19,
+      "fruitName": "Mango",
+      "Description": "They are Sweet",
+      "Available": [
+        "India",
+        "China",
+        "USA"
+      ],
+      "isSweet": "true"
+    },
+    {
+      "id": 20,
+      "fruitName": "Mango",
+      "Description": "They are Sweet",
+      "Available": [
+        "India",
+        "China",
+        "USA"
+      ],
+      "isSweet": "true"
+    },
+    {
+      "id": 21,
+      "fruitName": "Mango",
+      "Description": "They are Sweet",
+      "Available": [
+        "India",
+        "China",
+        "USA"
+      ],
+      "isSweet": "true"
+    },
+    {
+      "id": 22,
+      "fruitName": "Mango",
+      "Description": "They are Sweet",
+      "Available": [
+        "India",
+        "China",
+        "USA"
+      ],
+      "isSweet": "true"
+    },
+    {
+      "id": 23,
+      "fruitName": "Mango",
+      "Description": "They are Sweet",
+      "Available": [
+        "India",
+        "China",
+        "USA"
+      ],
+      "isSweet": "true"
+    },
+    {
+      "id": 24,
+      "fruitName": "Mango",
+      "Description": "They are Sweet",
+      "Available": [
+        "India",
+        "China",
+        "USA"
+      ],
+      "isSweet": "true"
+    },
+    {
+      "id": 25,
+      "fruitName": "Mango",
+      "Description": "They are Sweet",
+      "Available": [
+        "India",
+        "China",
+        "USA"
+      ],
+      "isSweet": "true"
+    },
+    {
+      "id": 26,
+      "fruitName": "Mango",
+      "Description": "They are Sweet",
+      "Available": [
+        "India",
+        "China",
+        "USA"
+      ],
+      "isSweet": "true"
+    },
+    {
+      "id": 27,
+      "fruitName": "Mango",
+      "Description": "They are Sweet",
+      "Available": [
+        "India",
+        "China",
+        "USA"
+      ],
+      "isSweet": "true"
+    },
+    {
+      "id": 28,
+      "fruitName": "Mango",
+      "Description": "They are Sweet",
+      "Available": [
+        "India",
+        "China",
+        "USA"
+      ],
+      "isSweet": "true"
+    },
+    {
+      "id": 29,
+      "fruitName": "Mango",
+      "Description": "They are Sweet",
+      "Available": [
+        "India",
+        "China",
+        "USA"
+      ],
+      "isSweet": "true"
+    },
+    {
+      "id": 30,
+      "fruitName": "Mango",
+      "Description": "They are Sweet",
+      "Available": [
+        "India",
+        "China",
+        "USA"
+      ],
+      "isSweet": "true"
+    },
+    {
+      "id": 31,
+      "fruitName": "Mango",
+      "Description": "They are Sweet",
+      "Available": [
+        "India",
+        "China",
+        "USA"
+      ],
+      "isSweet": "true"
+    },
+    {
+      "id": 32,
+      "fruitName": "Mango",
+      "Description": "They are Sweet",
+      "Available": [
+        "India",
+        "China",
+        "USA"
+      ],
+      "isSweet": "true"
+    },
+    {
+      "id": 33,
+      "fruitName": "Mango",
+      "Description": "They are Sweet",
+      "Available": [
+        "India",
+        "China",
+        "USA"
+      ],
+      "isSweet": "true"
+    },
+    {
+      "id": 34,
+      "fruitName": "Mango",
+      "Description": "They are Sweet",
+      "Available": [
+        "India",
+        "China",
+        "USA"
+      ],
+      "isSweet": "true"
+    },
+    {
+      "id": 35,
+      "fruitName": "Mango",
+      "Description": "They are Sweet",
+      "Available": [
+        "India",
+        "China",
+        "USA"
+      ],
+      "isSweet": "true"
+    },
+    {
+      "id": 36,
+      "fruitName": "Mango",
+      "Description": "They are Sweet",
+      "Available": [
+        "India",
+        "China",
+        "USA"
+      ],
+      "isSweet": "true"
+    },
+    {
+      "id": 37,
+      "fruitName": "Mango",
+      "Description": "They are Sweet",
+      "Available": [
+        "India",
+        "China",
+        "USA"
+      ],
+      "isSweet": "true"
+    },
+    {
+      "id": 38,
+      "fruitName": "Mango",
+      "Description": "They are Sweet",
+      "Available": [
+        "India",
+        "China",
+        "USA"
+      ],
+      "isSweet": "true"
+    },
+    {
+      "id": 39,
+      "fruitName": "AALA,",
+      "Description": "EVERYWHERE",
+      "Available": [
+        "India",
+        "China",
+        "USA"
+      ],
+      "isSweet": "true"
+    }
+  ]
+}
